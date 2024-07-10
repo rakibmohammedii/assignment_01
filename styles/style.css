@@ -1,0 +1,150 @@
+
+
+.azeret-mono-normal {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+  
+    font-style: normal;
+  }
+  
+  
+  /* header styles */
+  
+  .aim{
+      font-weight: 800px;
+      font-size: 45px;
+      color: #0D1321;
+      align-items: center;
+      text-align: center;
+  }
+  .aim-description{
+      font-weight: 400px;
+      font-size: 16px;
+  
+      color: #0D1321;
+      opacity: 0.7;
+      text-align: center;
+  
+  }
+  .contact-button{
+      background-color: #0D1321;
+      border-radius: 8px;
+      width: 244px;
+      height: 64px;
+      padding: 21px 24px;
+      margin: 32px 0;
+      align-items: center;
+      justify-content: center;
+  
+  }
+  
+  header button a{
+      color: #ffffff;
+      text-decoration: none;
+      font-size: 20px;
+  
+  }
+  .header-div{
+      padding: 26px 221px 44px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: center;
+      margin:;
+  
+  }
+  .hero-section{
+      background-image: url(/asset/Hero-bg.png);
+      background-position: center;
+      background-size: cover;
+  }
+
+
+
+
+  
+/* main styles */
+.main-title{
+    margin: 24px 0;
+    font-weight: 800px;
+    font-size: 32px;
+    text-align: center;
+    align-items: center;
+    margin: 24px 0px;
+    height: auto;
+    padding: 0;
+
+}
+
+.main-description{ 
+    font-weight: 400px;
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    margin: 24px 40px;
+    height: auto;
+    padding: 0;
+    opacity: 0.7;
+
+
+}
+/* layer styles */
+
+.layer-1-heading{
+    color: #0D1321;
+    opacity: 0.7;
+    font-weight: 700px;
+    font-size: 24px;
+    text-align: left;
+}
+.layer-description{
+    color: rgb(13, 19, 33);
+    font-weight: 400px;
+    font-size: 16px;
+    opacity: 0.7;
+    text-align: left;
+    margin: 16px 0px;
+    padding: 0px;
+
+}
+.layer-button{
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    margin: 32px 0px;
+    padding: 12px 20px;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    
+
+
+}
+.layer-button:hover{
+ background-color: darkgreen;
+ color: white;
+}
+.learn{
+    text-decoration: none;
+    color: #0D1321;
+}
+
+.layer-1{
+    display: flex;
+    gap: 97px;
+    padding: 48px;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg,
+     rgb(255, 255, 255),
+     rgba(255, 255, 255, 0) 100%);
+}
+.main-section{
+    padding: 48px;
+    margin: 32px 0px;
+}
+.div-main{
+    padding: 80px 97px;
+    border:10px;
+    border-radius: 16px;
+    border-color: rgba(13, 19, 33, 0.02);
+}
