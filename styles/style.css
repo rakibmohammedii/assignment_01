@@ -194,3 +194,51 @@ li{
     background-color: rgba(255, 223, 0, 0.05);
 }
 
+/* i need support styles */
+
+#input{
+    width: 548px;
+    height: 57px;
+    box-sizing: border-box;
+    
+    border-radius: 8px;
+   
+    background-color: white;
+    margin: 0px 16px;
+    align-items: center;
+    padding: 19px 20px 19px 20px;
+    border-color: black 10%;
+}
+button{
+    width: 120px;
+    height: 57px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    padding: 17px 20px 17px 20px;
+
+    background: rgb(255, 255, 255);
+}
+.submit-btn{
+    text-decoration: none;
+    margin: 0px 10px;
+    font-size: 20px;
+    font-weight: 600px;
+    color: rgb(13, 19, 33);
+    text-align: center;
+
+}
+.last-2div{
+    background: url(/asset/handshake.jpg);
+    background-position: center;
+    background-size:cover;
+    margin: 0px 150px;
+    border-radius: 16px;
+    
+    text-align: center;
+    padding: 64px 48px 64px 48px;
+    padding;: 180px 40px
+    justify-content: center;
+    align-items: center;
+    pdding: buttom 150px;
+}
