@@ -148,3 +148,20 @@
     border-radius: 16px;
     border-color: rgba(13, 19, 33, 0.02);
 }
+.video{
+    width: 1140px;
+    height: 614px;
+    border-radius: 16px;
+    padding: 32px;
+    stroke: #ffffff;
+    border: 16px;
+    box-sizing: border-box;
+    border: 1px solid rgba(204, 204, 204, 0.2);
+
+
+    
+}
+.inspiration{
+    padding: ;
+    margin: 0px 130px;
+}
